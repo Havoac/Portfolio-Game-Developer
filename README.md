@@ -2,8 +2,8 @@
 
 A fully responsive portfolio website built using **ReactJS**. It includes sections like About Me, Skills, Education, Projects, and Contact. Implemented in dark mode with smooth transitions, interactive tilt effects, and an integrated contact form powered by EmailJS for email notifications.
 
-[🔗 Live Site](https://portfolio-revised-2.netlify.app/)  
-[📂 Source Code](https://github.com/Havoac/portfolio-V2)
+[🔗 Live Site](https://portfolio-game-developer.netlify.app/)  
+[📂 Source Code](https://github.com/Havoac/Portfolio-Game-Developer)
 
 ---
 
@@ -55,8 +55,8 @@ Full list of dependencies:
 ## 🚀 Setup Instructions
 1️⃣ Clone the repository
 ```
-git clone https://github.com/Havoac/portfolio-V2
-cd portfolio-V2
+gh repo clone Havoac/Portfolio-Game-Developer
+Portfolio-Game-Developer
 ```
 2️⃣ Install dependencies
 ```
