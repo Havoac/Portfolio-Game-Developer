@@ -19,11 +19,11 @@ import jwtLogo from "./assets/tech_logo/jwt.png";
 import sqlWorkBenchLogo from "./assets/tech_logo/sqlworkbench.png";
 import jenkinsLogo from "./assets/tech_logo/jenkins.png";
 import unityLogo from "./assets/tech_logo/unity.png";
-import slotGameSystemsLogo from "./assets/tech_logo/slotgamesystems.png";
-import mathModelImplementationLogo from "./assets/tech_logo/mathmodelimplementation.png";
+import slotGameSystemsLogo from "./assets/tech_logo/slotGameSystems.png";
+import mathModelImplementationLogo from "./assets/tech_logo/mathModelImplementation.png";
 import gamePrototypingLogo from "./assets/tech_logo/slotGamePrototyping.png";
 import gameFlowLogo from "./assets/tech_logo/slotGameFlow.png";
-import visualStudioLogo from "./assets/tech_logo/visualstudio.png";
+import visualStudioLogo from "./assets/tech_logo/visualStudio.png";
 
 
 // Experience Section Logo's
