@@ -27,7 +27,7 @@ function About() {
             <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight">
               <span className="text-white">I am a </span>
               <ReactTypingEffect
-                text={["Backend Developer", "Coder"]}
+                text={["Game Developer", "Coder"]}
                 speed={100}
                 eraseSpeed={50}
                 typingDelay={500}
@@ -39,17 +39,11 @@ function About() {
             </h3>
             {/* About Me Paragraph */}
             <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-              Hi, I’m Shivansh Singh — a software developer with experience in
-              building scalable backend systems and responsive frontend
-              interfaces. At Arrise Solutions, I’ve worked on Spring Boot
-              microservices that improved system performance and integrated
-              secure authentication using OAuth2 and JWT. Outside of work, I
-              actively solve problems on LeetCode (Top 3.5%) and love exploring
-              new tech.
+              Hi, I’m Shivansh Singh, a game developer with 3+ years at Arrise Powering Pragmatic Play, building slot game prototypes in C# and Unity. I turn complex math models into working game logic and validate both functional and mathematical correctness. I’ve contributed to Sweet Craze, a live Pragmatic Play slot. Outside work, I solve problems on LeetCode (rating 2014, top 3.5%) and love exploring new tech.
             </p>
             {/* Resume Button */}
             <a
-              href="https://drive.google.com/file/d/1TH9-pvcgQhPZhee8ynIqlZxwVsrPSLjQ/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1WcSKIarDS9kFmGfwTtff_9WdSsRv_9AO/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
